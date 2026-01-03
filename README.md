@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ApoorvGosavi
-- 👀 I’m interested in Website Developing and Programming.
-- 🌱 I’m currently learning Javascript and other Programming languages.
+- 👀 I’m interested in Web develpment and aiming to be a full stack developer.
+- 🌱 I’m currently learning Javascript and its libraries.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
